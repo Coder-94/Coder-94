@@ -27,7 +27,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313](https://velog.io/@c0de94/posts">
+  <a href="https://velog.io/@c0de94/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 </div>
